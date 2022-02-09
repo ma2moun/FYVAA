@@ -1,4 +1,4 @@
-# React Wordle
+# React Wordle (Fyvaa for its 5x5)
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
