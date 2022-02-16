@@ -20,7 +20,6 @@ export const Alert = ({
     {
       'bg-rose-500 text-white': variant === 'error',
       'bg-blue-500 text-white': variant === 'success',
-    }
 	},
     topMost ? 'z-20' : ''
   )
