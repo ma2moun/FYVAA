@@ -5,7 +5,7 @@ import classNames from 'classnames'
 type Props = {
   isOpen: boolean
   message: string
-  variant?: 'success' | 'error'
+  variant?: 'success' | 'warning'
   topMost?: boolean
 }
 
