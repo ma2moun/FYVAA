@@ -12,7 +12,7 @@ type Props = {
 export const Alert = ({
   isOpen,
   message,
-  variant = 'error',
+  variant = 'warning',
   topMost = false,
 }: Props) => {
   const classes = classNames(
