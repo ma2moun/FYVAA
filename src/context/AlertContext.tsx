@@ -7,7 +7,7 @@ import {
 } from 'react'
 import { ALERT_TIME_MS } from '../constants/settings'
 
-type AlertStatus = 'success' | 'error' | undefined
+type AlertStatus = 'success' | 'error' | "warning" | undefined
 
 type ShowOptions = {
   persist?: boolean
